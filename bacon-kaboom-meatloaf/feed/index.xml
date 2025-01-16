@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Bacon Kaboom Meatloaf	</title>
+	<atom:link href="/bacon-kaboom-meatloaf/feed/" rel="self" type="application/rss+xml" />
+	<link>/bacon-kaboom-meatloaf/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 14 Jul 2017 05:25:59 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Marcellina		</title>
+		<link>/bacon-kaboom-meatloaf/comment-page-1/#comment-200336</link>
+
+		<dc:creator><![CDATA[Marcellina]]></dc:creator>
+		<pubDate>Fri, 14 Jul 2017 05:25:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5316#comment-200336</guid>
+
+					<description><![CDATA[Now that looks like a meatloaf I could eat! I&#039;m going to have to look at Billy Law&#039;s cookbook.]]></description>
+			<content:encoded><![CDATA[<p>Now that looks like a meatloaf I could eat! I&#8217;m going to have to look at Billy Law&#8217;s cookbook.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mum		</title>
+		<link>/bacon-kaboom-meatloaf/comment-page-1/#comment-200265</link>
+
+		<dc:creator><![CDATA[Mum]]></dc:creator>
+		<pubDate>Thu, 13 Jul 2017 01:40:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5316#comment-200265</guid>
+
+					<description><![CDATA[This is absolutely delicious, I am looking forward to the next one :)]]></description>
+			<content:encoded><![CDATA[<p>This is absolutely delicious, I am looking forward to the next one 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

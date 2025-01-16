@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>pasionfruit &#8211; Leave Room for Dessert</title>
+	<atom:link href="/tag/pasionfruit/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 13 Mar 2009 22:46:10 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">8736267</site>	<item>
+		<title>Passionfruit Sorbet</title>
+		<link>/passionfruit-sorbet/</link>
+					<comments>/passionfruit-sorbet/#comments</comments>
+		
+		<dc:creator><![CDATA[Anita]]></dc:creator>
+		<pubDate>Wed, 11 Mar 2009 21:45:48 +0000</pubDate>
+				<category><![CDATA[Dessert]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[gelato]]></category>
+		<category><![CDATA[pasionfruit]]></category>
+		<category><![CDATA[sorbet]]></category>
+		<guid isPermaLink="false">/?p=181</guid>
+
+					<description><![CDATA[While at Nick’s parents, we discovered a few very healthy passionfruit vines which were growing wild. Being able to pick handfuls of passionfruit each morning was fantastic! With an excess of passionfruit (you won’t hear me complaining, or probably ever using the term ‘excess’ again, how can there be an excess of passionfruit??), Nick decided [&#8230;]]]></description>
+		
+					<wfw:commentRss>/passionfruit-sorbet/feed/</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">181</post-id>	</item>
+	</channel>
+</rss>

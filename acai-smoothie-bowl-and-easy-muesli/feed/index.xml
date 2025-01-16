@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Acai Smoothie Bowl and Easy Muesli	</title>
+	<atom:link href="/acai-smoothie-bowl-and-easy-muesli/feed/" rel="self" type="application/rss+xml" />
+	<link>/acai-smoothie-bowl-and-easy-muesli/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Mon, 19 Nov 2018 09:41:27 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Yollanda		</title>
+		<link>/acai-smoothie-bowl-and-easy-muesli/comment-page-1/#comment-301699</link>
+
+		<dc:creator><![CDATA[Yollanda]]></dc:creator>
+		<pubDate>Tue, 06 Nov 2018 03:25:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5651#comment-301699</guid>
+
+					<description><![CDATA[It looks yummy!!!!!
+I can&#039;t wait to try some :)]]></description>
+			<content:encoded><![CDATA[<p>It looks yummy!!!!!<br />
+I can&#8217;t wait to try some 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Raincoast Crisps &#8211; Daring Bakers Challenge February 2013	</title>
+	<atom:link href="/raincoastcrisps/feed/" rel="self" type="application/rss+xml" />
+	<link>/raincoastcrisps/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 08 Mar 2013 01:07:51 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: milkteaxx		</title>
+		<link>/raincoastcrisps/comment-page-1/#comment-8623</link>
+
+		<dc:creator><![CDATA[milkteaxx]]></dc:creator>
+		<pubDate>Fri, 08 Mar 2013 01:07:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4787#comment-8623</guid>
+
+					<description><![CDATA[these crisps look amazing!]]></description>
+			<content:encoded><![CDATA[<p>these crisps look amazing!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Sinnesfreuden		</title>
+		<link>/raincoastcrisps/comment-page-1/#comment-8595</link>
+
+		<dc:creator><![CDATA[Sinnesfreuden]]></dc:creator>
+		<pubDate>Thu, 28 Feb 2013 21:49:16 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4787#comment-8595</guid>
+
+					<description><![CDATA[I made these too. It is really a wonderfull and easy recipe. Great job!]]></description>
+			<content:encoded><![CDATA[<p>I made these too. It is really a wonderfull and easy recipe. Great job!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

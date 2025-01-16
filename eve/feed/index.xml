@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Eve	</title>
+	<atom:link href="/eve/feed/" rel="self" type="application/rss+xml" />
+	<link>/eve/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Tue, 15 Jul 2014 11:23:33 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: The Hungry Mum		</title>
+		<link>/eve/comment-page-1/#comment-12069</link>
+
+		<dc:creator><![CDATA[The Hungry Mum]]></dc:creator>
+		<pubDate>Mon, 24 Mar 2014 09:29:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5015#comment-12069</guid>
+
+					<description><![CDATA[this is incredibly stunning! I can&#039;t imagine ever having the skills to create this but you&#039;ve done an amazing job.]]></description>
+			<content:encoded><![CDATA[<p>this is incredibly stunning! I can&#8217;t imagine ever having the skills to create this but you&#8217;ve done an amazing job.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: MasterChef &#34;Eve&#34; Cake - Cath&#039;s Cookery Creations!		</title>
+		<link>/eve/comment-page-1/#comment-11942</link>
+
+		<dc:creator><![CDATA[MasterChef &#34;Eve&#34; Cake - Cath&#039;s Cookery Creations!]]></dc:creator>
+		<pubDate>Sat, 22 Feb 2014 22:20:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5015#comment-11942</guid>
+
+					<description><![CDATA[[...] I had hit publish on the wrong post, but no, Anita from Leave Room for Dessert had made the MasterChef Eve cake for Valentine&#8217;s Day.  Great minds think [...]]]></description>
+			<content:encoded><![CDATA[<p>[&#8230;] I had hit publish on the wrong post, but no, Anita from Leave Room for Dessert had made the MasterChef Eve cake for Valentine&#8217;s Day.  Great minds think [&#8230;]</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Cath from Cath's Cookery Creations!		</title>
+		<link>/eve/comment-page-1/#comment-11908</link>
+
+		<dc:creator><![CDATA[Cath from Cath's Cookery Creations!]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2014 08:45:58 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5015#comment-11908</guid>
+
+					<description><![CDATA[Great minds think alike!  I made Eve this week as well but as my belated birthday cake to take to work (my post will be up next week).  Your version looks great and I am very jealous you have done a course at Savour as it is on my wish list.  I didn&#039;t end up attempting the mushrooms and chocolate leaves as I ran out of time but the whole thing was very tasty.  Have a great weekend :)]]></description>
+			<content:encoded><![CDATA[<p>Great minds think alike!  I made Eve this week as well but as my belated birthday cake to take to work (my post will be up next week).  Your version looks great and I am very jealous you have done a course at Savour as it is on my wish list.  I didn&#8217;t end up attempting the mushrooms and chocolate leaves as I ran out of time but the whole thing was very tasty.  Have a great weekend 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Maggie		</title>
+		<link>/eve/comment-page-1/#comment-11907</link>
+
+		<dc:creator><![CDATA[Maggie]]></dc:creator>
+		<pubDate>Sat, 15 Feb 2014 00:18:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5015#comment-11907</guid>
+
+					<description><![CDATA[Congratulations on your little cupcake!  Looks good enough to eat! :) 
+
+Love your blog and recipes, thanks for the Eve cake, I enjoy a challenge.
+Hugs
+Maggie]]></description>
+			<content:encoded><![CDATA[<p>Congratulations on your little cupcake!  Looks good enough to eat! 🙂 </p>
+<p>Love your blog and recipes, thanks for the Eve cake, I enjoy a challenge.<br />
+Hugs<br />
+Maggie</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

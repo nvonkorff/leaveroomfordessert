@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Anita&#8217;s Homemade Granola	</title>
+	<atom:link href="/anitas-homemade-granola/feed/" rel="self" type="application/rss+xml" />
+	<link>/anitas-homemade-granola/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Tue, 12 Jul 2022 11:47:44 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Mum		</title>
+		<link>/anitas-homemade-granola/comment-page-1/#comment-13274</link>
+
+		<dc:creator><![CDATA[Mum]]></dc:creator>
+		<pubDate>Thu, 24 Jul 2014 03:55:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5074#comment-13274</guid>
+
+					<description><![CDATA[This is the best granola I have ever tasted, the only problem is you want to keep eating more and more :)]]></description>
+			<content:encoded><![CDATA[<p>This is the best granola I have ever tasted, the only problem is you want to keep eating more and more 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Natalia		</title>
+		<link>/anitas-homemade-granola/comment-page-1/#comment-12439</link>
+
+		<dc:creator><![CDATA[Natalia]]></dc:creator>
+		<pubDate>Wed, 16 Jul 2014 00:44:15 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5074#comment-12439</guid>
+
+					<description><![CDATA[This is so delicious, where&#039;s the next batch?]]></description>
+			<content:encoded><![CDATA[<p>This is so delicious, where&#8217;s the next batch?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Spinach, Bacon and Rice Pie	</title>
+	<atom:link href="/spinach-bacon-and-rice-pie/feed/" rel="self" type="application/rss+xml" />
+	<link>/spinach-bacon-and-rice-pie/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Tue, 02 Aug 2016 04:29:08 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: căn hộ richmond city		</title>
+		<link>/spinach-bacon-and-rice-pie/comment-page-1/#comment-167488</link>
+
+		<dc:creator><![CDATA[căn hộ richmond city]]></dc:creator>
+		<pubDate>Tue, 02 Aug 2016 04:29:08 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4786#comment-167488</guid>
+
+					<description><![CDATA[Yum Anita, I still love seeing you updates even though it’s been almost 5 years since we worked together.]]></description>
+			<content:encoded><![CDATA[<p>Yum Anita, I still love seeing you updates even though it’s been almost 5 years since we worked together.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

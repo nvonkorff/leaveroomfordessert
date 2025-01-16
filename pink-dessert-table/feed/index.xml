@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pink Dessert Table	</title>
+	<atom:link href="/pink-dessert-table/feed/" rel="self" type="application/rss+xml" />
+	<link>/pink-dessert-table/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Wed, 01 May 2013 06:27:57 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Meg		</title>
+		<link>/pink-dessert-table/comment-page-1/#comment-10693</link>
+
+		<dc:creator><![CDATA[Meg]]></dc:creator>
+		<pubDate>Wed, 01 May 2013 06:27:57 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4803#comment-10693</guid>
+
+					<description><![CDATA[Oh this is delightful! I&#039;m planning my little girls&#039; first birthday so need more pink ideas (of course pink) so thank you! As an Aussie in London seeing musk sticks was a blast from the past and on my list for my mum to bring over along with the Tim Tams! This looks lovely, thanks for sharing!]]></description>
+			<content:encoded><![CDATA[<p>Oh this is delightful! I&#8217;m planning my little girls&#8217; first birthday so need more pink ideas (of course pink) so thank you! As an Aussie in London seeing musk sticks was a blast from the past and on my list for my mum to bring over along with the Tim Tams! This looks lovely, thanks for sharing!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Isabella		</title>
+		<link>/pink-dessert-table/comment-page-1/#comment-10688</link>
+
+		<dc:creator><![CDATA[Isabella]]></dc:creator>
+		<pubDate>Wed, 01 May 2013 00:14:11 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4803#comment-10688</guid>
+
+					<description><![CDATA[Anita, what a beautiful display of your talents!! Also beautifully photographed. I am sure everyone enjoyed the fruits of your labour :)]]></description>
+			<content:encoded><![CDATA[<p>Anita, what a beautiful display of your talents!! Also beautifully photographed. I am sure everyone enjoyed the fruits of your labour 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

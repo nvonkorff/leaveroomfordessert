@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Cherry Compote &#8211; Leave Room for Dessert</title>
+	<atom:link href="/tag/cherry-compote/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 31 Jul 2009 12:48:58 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">8736267</site>	<item>
+		<title>Cherry Compote, Vanilla Bean Custard and Vienna Almond Cream Trifle</title>
+		<link>/cherry-compote-vanilla-bean-custard-and-vienna-almond-cream-trifle/</link>
+					<comments>/cherry-compote-vanilla-bean-custard-and-vienna-almond-cream-trifle/#comments</comments>
+		
+		<dc:creator><![CDATA[Anita]]></dc:creator>
+		<pubDate>Thu, 19 Mar 2009 21:08:50 +0000</pubDate>
+				<category><![CDATA[Cakes, Slices and Biscuits]]></category>
+		<category><![CDATA[Dessert]]></category>
+		<category><![CDATA[Egg Yolks]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[Cherry Compote]]></category>
+		<category><![CDATA[Trifle]]></category>
+		<guid isPermaLink="false">/?p=243</guid>
+
+					<description><![CDATA[My mum’s favourite dessert ever is trifle. A combination of cake, alcohol, fruit, home-made thick custard and cream can’t go wrong. My idea of a trifle is probably a bit different to my mum’s and I already have a recipe lined up and waiting to make for my trifle – hint: it involves a lot [&#8230;]]]></description>
+		
+					<wfw:commentRss>/cherry-compote-vanilla-bean-custard-and-vienna-almond-cream-trifle/feed/</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">243</post-id>	</item>
+	</channel>
+</rss>

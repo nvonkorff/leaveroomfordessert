@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Filled Pate a Choux Swans &#8211; Daring Bakers Challenge August 2012	</title>
+	<atom:link href="/choux-swans/feed/" rel="self" type="application/rss+xml" />
+	<link>/choux-swans/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Tue, 09 Oct 2012 04:19:02 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Rachael		</title>
+		<link>/choux-swans/comment-page-1/#comment-7168</link>
+
+		<dc:creator><![CDATA[Rachael]]></dc:creator>
+		<pubDate>Tue, 09 Oct 2012 04:19:02 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4584#comment-7168</guid>
+
+					<description><![CDATA[Your swans are so pretty!]]></description>
+			<content:encoded><![CDATA[<p>Your swans are so pretty!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Fruit and Veg		</title>
+		<link>/choux-swans/comment-page-1/#comment-6866</link>
+
+		<dc:creator><![CDATA[Fruit and Veg]]></dc:creator>
+		<pubDate>Thu, 06 Sep 2012 05:03:51 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4584#comment-6866</guid>
+
+					<description><![CDATA[haha awesome, I&#039;ve never seen those kinds of shapes before!]]></description>
+			<content:encoded><![CDATA[<p>haha awesome, I&#8217;ve never seen those kinds of shapes before!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Beta Gal		</title>
+		<link>/choux-swans/comment-page-1/#comment-6793</link>
+
+		<dc:creator><![CDATA[Beta Gal]]></dc:creator>
+		<pubDate>Thu, 30 Aug 2012 12:45:10 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4584#comment-6793</guid>
+
+					<description><![CDATA[Wow, these look so elegant and dainty (and delicious)!]]></description>
+			<content:encoded><![CDATA[<p>Wow, these look so elegant and dainty (and delicious)!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Jeanne		</title>
+		<link>/choux-swans/comment-page-1/#comment-6753</link>
+
+		<dc:creator><![CDATA[Jeanne]]></dc:creator>
+		<pubDate>Mon, 27 Aug 2012 22:11:43 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4584#comment-6753</guid>
+
+					<description><![CDATA[Gorgeous swans!  I love the idea of using toffee on them as well.]]></description>
+			<content:encoded><![CDATA[<p>Gorgeous swans!  I love the idea of using toffee on them as well.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

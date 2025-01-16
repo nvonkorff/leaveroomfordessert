@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Wedding Cake	</title>
+	<atom:link href="/wedding-cake/feed/" rel="self" type="application/rss+xml" />
+	<link>/wedding-cake/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Tue, 17 Mar 2009 23:18:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Lorraine @NotQuiteNigella		</title>
+		<link>/wedding-cake/comment-page-1/#comment-47</link>
+
+		<dc:creator><![CDATA[Lorraine @NotQuiteNigella]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2009 23:18:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=47#comment-47</guid>
+
+					<description><![CDATA[Stunning wedding cake and I like how fate worked it so that you were there to taste the muffins at the right time! Love the leaf decorations too :)]]></description>
+			<content:encoded><![CDATA[<p>Stunning wedding cake and I like how fate worked it so that you were there to taste the muffins at the right time! Love the leaf decorations too 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

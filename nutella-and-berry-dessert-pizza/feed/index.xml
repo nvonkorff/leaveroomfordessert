@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Nutella and Berry Dessert Pizza	</title>
+	<atom:link href="/nutella-and-berry-dessert-pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>/nutella-and-berry-dessert-pizza/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Wed, 11 Oct 2017 06:47:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Aria		</title>
+		<link>/nutella-and-berry-dessert-pizza/comment-page-1/#comment-210459</link>
+
+		<dc:creator><![CDATA[Aria]]></dc:creator>
+		<pubDate>Wed, 11 Oct 2017 06:47:18 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5302#comment-210459</guid>
+
+					<description><![CDATA[This Pizza looks and sounds so delicious! Thanks for sharing such a wonderful recipe.]]></description>
+			<content:encoded><![CDATA[<p>This Pizza looks and sounds so delicious! Thanks for sharing such a wonderful recipe.</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Mum		</title>
+		<link>/nutella-and-berry-dessert-pizza/comment-page-1/#comment-201965</link>
+
+		<dc:creator><![CDATA[Mum]]></dc:creator>
+		<pubDate>Sat, 29 Jul 2017 22:44:23 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5302#comment-201965</guid>
+
+					<description><![CDATA[Yum !!!!]]></description>
+			<content:encoded><![CDATA[<p>Yum !!!!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Marcellina		</title>
+		<link>/nutella-and-berry-dessert-pizza/comment-page-1/#comment-200632</link>
+
+		<dc:creator><![CDATA[Marcellina]]></dc:creator>
+		<pubDate>Tue, 18 Jul 2017 11:48:55 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5302#comment-200632</guid>
+
+					<description><![CDATA[We have a woodfired oven so we regularly have pizza parties. Every time we have Nutella pizza but we have never used Tim Tams as well. What genius idea! I will definitely be using your recipe this Friday for our next pizza party!]]></description>
+			<content:encoded><![CDATA[<p>We have a woodfired oven so we regularly have pizza parties. Every time we have Nutella pizza but we have never used Tim Tams as well. What genius idea! I will definitely be using your recipe this Friday for our next pizza party!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

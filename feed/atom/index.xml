@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	xml:lang="en-US"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+	<title type="text">Leave Room for Dessert</title>
+	<subtitle type="text">Anita&#039;s Food Blog</subtitle>
+
+	<updated>2018-11-19T10:22:37Z</updated>
+
+	<link rel="alternate" type="text/html" href="/" />
+	<id>/feed/atom/</id>
+	<link rel="self" type="application/atom+xml" href="/feed/atom/" />
+
+	
+	<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Solar System Cake]]></title>
+		<link rel="alternate" type="text/html" href="/solar-system-cake/" />
+
+		<id>/?p=5625</id>
+		<updated>2018-11-19T10:22:37Z</updated>
+		<published>2018-11-22T10:21:27Z</published>
+		<category scheme="/" term="Cake Decorating" /><category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[Deciding a birthday cake and theme is always tricky for kids. I can&#8217;t remember the alternative for my daughters birthday, but she decided to go with the solar system, as she loved the dwarf planet Pluto. She chose a chocolate cake and cream cheese icing (so it wasn&#8217;t too sweet). I made the cake in [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/solar-system-cake/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/solar-system-cake/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Turtle Cake and Under the Sea Party]]></title>
+		<link rel="alternate" type="text/html" href="/turtle-cake-and-under-the-sea-party/" />
+
+		<id>/?p=5334</id>
+		<updated>2018-11-19T09:53:59Z</updated>
+		<published>2018-11-19T09:53:59Z</published>
+		<category scheme="/" term="Cake Decorating" /><category scheme="/" term="Party Food" /><category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[I always remember our lovely birthdays as children. We were able to choose any cake from the Women&#8217;s Weekly Cake Book. My mum made so many different cakes from the book over the years, I couldn&#8217;t help but buy the same cake book (and the new bumper book too) for my children to choose from. [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/turtle-cake-and-under-the-sea-party/#comments" thr:count="2" />
+			<link rel="replies" type="application/atom+xml" href="/turtle-cake-and-under-the-sea-party/feed/atom/" thr:count="2" />
+			<thr:total>2</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Acai Smoothie Bowl and Easy Muesli]]></title>
+		<link rel="alternate" type="text/html" href="/acai-smoothie-bowl-and-easy-muesli/" />
+
+		<id>/?p=5651</id>
+		<updated>2018-11-19T09:41:27Z</updated>
+		<published>2018-11-05T11:06:07Z</published>
+		<category scheme="/" term="Breakfast" /><category scheme="/" term="Recipes" /><category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[The first time I tried an acai bowl was 4 or more years back at a Jiujitsu tournament. I wasn&#8217;t competing as I don&#8217;t do jiujitsu, but I was eating &#8211; as I&#8217;m really good at that. Since then I have seen it become super popular, with the acai puree now available frozen at supermarkets [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/acai-smoothie-bowl-and-easy-muesli/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/acai-smoothie-bowl-and-easy-muesli/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Chicken and Corn Soup]]></title>
+		<link rel="alternate" type="text/html" href="/chicken-and-corn-soup/" />
+
+		<id>/?p=5583</id>
+		<updated>2018-08-12T09:55:17Z</updated>
+		<published>2018-08-12T09:55:17Z</published>
+		<category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[Persistent colds during winter are so frustrating. One of the warming treatments my mum used to feed us when we were sick was chicken and corn soup. It&#8217;s so warm and cosy &#8211; I make it when we have colds, but also just on cold winter nights. I must admit though &#8211; it always tastes [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/chicken-and-corn-soup/#comments" thr:count="0" />
+			<link rel="replies" type="application/atom+xml" href="/chicken-and-corn-soup/feed/atom/" thr:count="0" />
+			<thr:total>0</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[White Chocolate Raspberry Cheesecake Slice]]></title>
+		<link rel="alternate" type="text/html" href="/white-chocolate-raspberry-cheesecake-slice/" />
+
+		<id>/?p=5561</id>
+		<updated>2018-06-20T11:34:22Z</updated>
+		<published>2018-06-20T11:34:22Z</published>
+		<category scheme="/" term="Cakes, Slices and Biscuits" /><category scheme="/" term="Dessert" /><category scheme="/" term="Dessert Table" /><category scheme="/" term="Party Food" /><category scheme="/" term="Recipes" /><category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[This is a wonderful addition to any party. These yummy desserts have the perfect combination of sweet, tart, creamy and crunchy. Make them big or small depending on what else is on offer. We have served this at a number of parties so far, and they are a great alternative to some of the other [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/white-chocolate-raspberry-cheesecake-slice/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/white-chocolate-raspberry-cheesecake-slice/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Anzac Biscuits]]></title>
+		<link rel="alternate" type="text/html" href="/anzac-biscuits/" />
+
+		<id>/?p=5585</id>
+		<updated>2018-04-24T11:39:21Z</updated>
+		<published>2018-04-24T19:33:56Z</published>
+		<category scheme="/" term="Cakes, Slices and Biscuits" /><category scheme="/" term="Party Food" /><category scheme="/" term="Recipes" />
+		<summary type="html"><![CDATA[We make these biscuits almost every ANZAC day (25th April, a day of national remembrance). I do make them throughout the year as well, as they keep well made in advance and taste great. A great biscuit for those with egg allergies, and if you need a dairy-free alternative you could try and substitute coconut [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/anzac-biscuits/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/anzac-biscuits/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Caramel Slice]]></title>
+		<link rel="alternate" type="text/html" href="/caramel-slice/" />
+
+		<id>/?p=5559</id>
+		<updated>2018-03-29T11:06:52Z</updated>
+		<published>2018-03-29T11:06:52Z</published>
+		<category scheme="/" term="Cakes, Slices and Biscuits" /><category scheme="/" term="Chocolate" /><category scheme="/" term="Dessert" /><category scheme="/" term="Party Food" /><category scheme="/" term="Recipes" /><category scheme="/" term="Uncategorized" /><category scheme="/" term="Vegetarian" />
+		<summary type="html"><![CDATA[I was looking for a recipe for caramel slice and came across one on the internet that claimed it was the best ever caramel slice. Well, it&#8217;s a big claim, but I think it&#8217;s pretty high up there. Easy to make, super tasty &#8211; I won&#8217;t be looking for another recipe. This will be my [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/caramel-slice/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/caramel-slice/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Nutella and Berry Dessert Pizza]]></title>
+		<link rel="alternate" type="text/html" href="/nutella-and-berry-dessert-pizza/" />
+
+		<id>/?p=5302</id>
+		<updated>2017-07-12T11:12:04Z</updated>
+		<published>2017-07-16T11:08:43Z</published>
+		<category scheme="/" term="Chocolate" /><category scheme="/" term="Dessert" /><category scheme="/" term="Recipes" /><category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[Only recently I tried my first dessert pizza. It was so tasty I couldn&#8217;t wait to have it again and try it at home. Rather than making just one dessert pizza I figured it would be better to make savoury pizzas for dinner and with the same mix make the dessert pizza. I was very [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/nutella-and-berry-dessert-pizza/#comments" thr:count="3" />
+			<link rel="replies" type="application/atom+xml" href="/nutella-and-berry-dessert-pizza/feed/atom/" thr:count="3" />
+			<thr:total>3</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Bacon Kaboom Meatloaf]]></title>
+		<link rel="alternate" type="text/html" href="/bacon-kaboom-meatloaf/" />
+
+		<id>/?p=5316</id>
+		<updated>2017-07-12T11:08:14Z</updated>
+		<published>2017-07-12T11:08:14Z</published>
+		<category scheme="/" term="Main Meals" /><category scheme="/" term="Recipes" /><category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[I first saw this recipe in my delicious magazine one month, and it turned out so well I decided to buy Billy Law&#8217;s book Man Food, as it had heaps of yummy looking recipes. The use of pork mince, with minimal additions and slow cooking produces a lovely moist meatloaf. The main highlight for me [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/bacon-kaboom-meatloaf/#comments" thr:count="2" />
+			<link rel="replies" type="application/atom+xml" href="/bacon-kaboom-meatloaf/feed/atom/" thr:count="2" />
+			<thr:total>2</thr:total>
+			</entry>
+		<entry>
+		<author>
+			<name>Anita</name>
+							<uri>/</uri>
+						</author>
+
+		<title type="html"><![CDATA[Dukkah encrusted Croissants with Bacon, Halloumi and Pumpkin]]></title>
+		<link rel="alternate" type="text/html" href="/dukkah-croissants-bacon-halloumi-and-pumpkin/" />
+
+		<id>/?p=5531</id>
+		<updated>2017-05-10T11:30:21Z</updated>
+		<published>2017-05-10T11:30:21Z</published>
+		<category scheme="/" term="Breakfast" /><category scheme="/" term="Recipes" /><category scheme="/" term="Uncategorized" />
+		<summary type="html"><![CDATA[This has got to be one of the best brekkies I have had. I know that&#8217;s a big call &#8211; and probably sets expectations quite high. So maybe I should just say &#8211; give it a go, you&#8217;ll probably like it. I saw it in my Delicious magazine, and couldn&#8217;t wait to try it. It [&#8230;]]]></summary>
+
+		
+					<link rel="replies" type="text/html" href="/dukkah-croissants-bacon-halloumi-and-pumpkin/#comments" thr:count="1" />
+			<link rel="replies" type="application/atom+xml" href="/dukkah-croissants-bacon-halloumi-and-pumpkin/feed/atom/" thr:count="1" />
+			<thr:total>1</thr:total>
+			</entry>
+	</feed>

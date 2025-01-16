@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Ferrero Rocher Cake	</title>
+	<atom:link href="/ferrero-rocher-cake/feed/" rel="self" type="application/rss+xml" />
+	<link>/ferrero-rocher-cake/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Sat, 21 Nov 2015 16:41:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Raquel		</title>
+		<link>/ferrero-rocher-cake/comment-page-1/#comment-151039</link>
+
+		<dc:creator><![CDATA[Raquel]]></dc:creator>
+		<pubDate>Sat, 21 Nov 2015 16:41:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5212#comment-151039</guid>
+
+					<description><![CDATA[All your cakes and sweets look so amazing!]]></description>
+			<content:encoded><![CDATA[<p>All your cakes and sweets look so amazing!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

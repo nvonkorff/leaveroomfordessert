@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pražský koláč (Prague Kolache) &#8211; Daring Bakers Challenge September 2014	</title>
+	<atom:link href="/prazsky-kolac-prague-kolache-daring-bakers-challenge-september-2014/feed/" rel="self" type="application/rss+xml" />
+	<link>/prazsky-kolac-prague-kolache-daring-bakers-challenge-september-2014/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Tue, 14 Oct 2014 00:53:53 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Cassie &#124; Journey from Within		</title>
+		<link>/prazsky-kolac-prague-kolache-daring-bakers-challenge-september-2014/comment-page-1/#comment-50498</link>
+
+		<dc:creator><![CDATA[Cassie &#124; Journey from Within]]></dc:creator>
+		<pubDate>Tue, 14 Oct 2014 00:53:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5187#comment-50498</guid>
+
+					<description><![CDATA[omg yum!! this looks so delicious! fluffy and creamy!
+you make me want a cake now!]]></description>
+			<content:encoded><![CDATA[<p>omg yum!! this looks so delicious! fluffy and creamy!<br />
+you make me want a cake now!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Cakelaw		</title>
+		<link>/prazsky-kolac-prague-kolache-daring-bakers-challenge-september-2014/comment-page-1/#comment-38474</link>
+
+		<dc:creator><![CDATA[Cakelaw]]></dc:creator>
+		<pubDate>Mon, 29 Sep 2014 11:40:17 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5187#comment-38474</guid>
+
+					<description><![CDATA[This looks so good!  It&#039;s a little like a bee sting, I think.  And a custard filling has my vote any day.]]></description>
+			<content:encoded><![CDATA[<p>This looks so good!  It&#8217;s a little like a bee sting, I think.  And a custard filling has my vote any day.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

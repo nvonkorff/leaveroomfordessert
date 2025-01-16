@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Balsamic onion, pear and walnut pizza	</title>
+	<atom:link href="/balsamic-onion-pear-and-walnut-pizza/feed/" rel="self" type="application/rss+xml" />
+	<link>/balsamic-onion-pear-and-walnut-pizza/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 05 Jun 2015 02:50:45 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Isabella		</title>
+		<link>/balsamic-onion-pear-and-walnut-pizza/comment-page-1/#comment-139363</link>
+
+		<dc:creator><![CDATA[Isabella]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2015 02:50:45 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5126#comment-139363</guid>
+
+					<description><![CDATA[Those pizzas look absolutely fabulous - I want one :)]]></description>
+			<content:encoded><![CDATA[<p>Those pizzas look absolutely fabulous &#8211; I want one 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

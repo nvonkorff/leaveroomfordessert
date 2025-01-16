@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pink Sugar Roses	</title>
+	<atom:link href="/pink-sugar-roses/feed/" rel="self" type="application/rss+xml" />
+	<link>/pink-sugar-roses/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 05 Jun 2015 02:56:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Isabella		</title>
+		<link>/pink-sugar-roses/comment-page-1/#comment-139365</link>
+
+		<dc:creator><![CDATA[Isabella]]></dc:creator>
+		<pubDate>Fri, 05 Jun 2015 02:56:24 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5101#comment-139365</guid>
+
+					<description><![CDATA[What amazing patience you have in making these beautiful sugar flowers, well done!! I am looking forward to seeing more of your fabulous works of art :)]]></description>
+			<content:encoded><![CDATA[<p>What amazing patience you have in making these beautiful sugar flowers, well done!! I am looking forward to seeing more of your fabulous works of art 🙂</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Kim		</title>
+		<link>/pink-sugar-roses/comment-page-1/#comment-139331</link>
+
+		<dc:creator><![CDATA[Kim]]></dc:creator>
+		<pubDate>Thu, 04 Jun 2015 17:25:54 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5101#comment-139331</guid>
+
+					<description><![CDATA[So gorgeous, Anita, glad to see you&#039;re finding time for your own interests and hobbies in addition to looking after that gorgeous little Olivia! Hope all&#039;s well.]]></description>
+			<content:encoded><![CDATA[<p>So gorgeous, Anita, glad to see you&#8217;re finding time for your own interests and hobbies in addition to looking after that gorgeous little Olivia! Hope all&#8217;s well.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

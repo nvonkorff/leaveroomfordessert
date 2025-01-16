@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Chocolate Hazelnut Mousse Layer Cake	</title>
+	<atom:link href="/chocolate-hazelnut-mousse-layer-cake/feed/" rel="self" type="application/rss+xml" />
+	<link>/chocolate-hazelnut-mousse-layer-cake/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Sun, 26 Oct 2014 11:16:19 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Lyn bicknell		</title>
+		<link>/chocolate-hazelnut-mousse-layer-cake/comment-page-1/#comment-74133</link>
+
+		<dc:creator><![CDATA[Lyn bicknell]]></dc:creator>
+		<pubDate>Sun, 26 Oct 2014 11:16:19 +0000</pubDate>
+		<guid isPermaLink="false">/?p=4801#comment-74133</guid>
+
+					<description><![CDATA[This dessert will be on the table for the next family celebration.  Thanks for presenting such fab desserts]]></description>
+			<content:encoded><![CDATA[<p>This dessert will be on the table for the next family celebration.  Thanks for presenting such fab desserts</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

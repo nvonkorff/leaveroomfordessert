@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Beautiful Bouquets	</title>
+	<atom:link href="/beautiful-bouquets/feed/" rel="self" type="application/rss+xml" />
+	<link>/beautiful-bouquets/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Tue, 31 Mar 2009 01:07:09 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Lorraine @NotQuiteNigella		</title>
+		<link>/beautiful-bouquets/comment-page-1/#comment-81</link>
+
+		<dc:creator><![CDATA[Lorraine @NotQuiteNigella]]></dc:creator>
+		<pubDate>Tue, 31 Mar 2009 01:07:09 +0000</pubDate>
+		<guid isPermaLink="false">/?p=61#comment-81</guid>
+
+					<description><![CDATA[I agree, double delight roses are stunning! I always go for those if I see them at the florist. Lovely bouquets! :)]]></description>
+			<content:encoded><![CDATA[<p>I agree, double delight roses are stunning! I always go for those if I see them at the florist. Lovely bouquets! 🙂</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

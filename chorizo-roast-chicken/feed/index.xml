@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Chorizo Roast Chicken	</title>
+	<atom:link href="/chorizo-roast-chicken/feed/" rel="self" type="application/rss+xml" />
+	<link>/chorizo-roast-chicken/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 13 Mar 2009 08:33:37 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Anita		</title>
+		<link>/chorizo-roast-chicken/comment-page-1/#comment-32</link>
+
+		<dc:creator><![CDATA[Anita]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2009 08:33:37 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-32</guid>
+
+					<description><![CDATA[In reply to &lt;a href=&quot;/chorizo-roast-chicken/comment-page-1/#comment-30&quot;&gt;Lorraine @NotQuiteNigella&lt;/a&gt;.
+
+Hi Lorraine
+Unfortunately by the time I was able to serve up the chicken for myself it was almost all gone! I think a subtle smokey pork and spice flavour permeated the chicken, it certainly wasn&#039;t hugely flavoured by the chorizo, although the chorizo and crispy chicken skin were lovely!]]></description>
+			<content:encoded><![CDATA[<p>In reply to <a href="/chorizo-roast-chicken/comment-page-1/#comment-30">Lorraine @NotQuiteNigella</a>.</p>
+<p>Hi Lorraine<br />
+Unfortunately by the time I was able to serve up the chicken for myself it was almost all gone! I think a subtle smokey pork and spice flavour permeated the chicken, it certainly wasn&#8217;t hugely flavoured by the chorizo, although the chorizo and crispy chicken skin were lovely!</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		By: Lorraine @NotQuiteNigella		</title>
+		<link>/chorizo-roast-chicken/comment-page-1/#comment-30</link>
+
+		<dc:creator><![CDATA[Lorraine @NotQuiteNigella]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2009 07:11:59 +0000</pubDate>
+		<guid isPermaLink="false">/?p=115#comment-30</guid>
+
+					<description><![CDATA[Chorizo and BBQ chicken are two of my favourite things. I love how you&#039;ve stuffed it with chorizo under the skin. Does the smokey pork flavour permeate through the meat?]]></description>
+			<content:encoded><![CDATA[<p>Chorizo and BBQ chicken are two of my favourite things. I love how you&#8217;ve stuffed it with chorizo under the skin. Does the smokey pork flavour permeate through the meat?</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

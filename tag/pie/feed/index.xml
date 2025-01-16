@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Pie &#8211; Leave Room for Dessert</title>
+	<atom:link href="/tag/pie/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Wed, 18 Mar 2009 11:27:27 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">8736267</site>	<item>
+		<title>Butter Chicken Pie</title>
+		<link>/butter-chicken-pie/</link>
+					<comments>/butter-chicken-pie/#comments</comments>
+		
+		<dc:creator><![CDATA[Anita]]></dc:creator>
+		<pubDate>Wed, 18 Mar 2009 20:18:21 +0000</pubDate>
+				<category><![CDATA[Main Meals]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[butter chicken]]></category>
+		<category><![CDATA[Patak's]]></category>
+		<category><![CDATA[Pie]]></category>
+		<guid isPermaLink="false">/?p=233</guid>
+
+					<description><![CDATA[Happy Birthday Mum! So many birthdays close together… Well I guess with a large family already, when you add friends and extended family the number of days between birthdays becomes few. When I asked my mum what she’d like for her birthday dinner, she replied “Whatever you’d like to make”. Just like last year and [&#8230;]]]></description>
+		
+					<wfw:commentRss>/butter-chicken-pie/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">233</post-id>	</item>
+	</channel>
+</rss>

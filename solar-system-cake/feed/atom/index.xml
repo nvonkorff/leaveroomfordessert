@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?><feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xml:lang="en-US"
+	xmlns:thr="http://purl.org/syndication/thread/1.0"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+	<title type="text">
+	Comments on Solar System Cake	</title>
+	<subtitle type="text">Anita&#039;s Food Blog</subtitle>
+
+	<updated>2018-11-19T10:22:37Z</updated>
+
+	<link rel="alternate" type="text/html" href="/solar-system-cake/#respond" />
+	<link rel="self" type="application/atom+xml" href="/solar-system-cake/feed/atom/" />
+	<id>/solar-system-cake/feed/atom/</id>
+
+</feed>

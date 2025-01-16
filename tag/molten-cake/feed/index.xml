@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Molten Cake &#8211; Leave Room for Dessert</title>
+	<atom:link href="/tag/molten-cake/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Fri, 13 Mar 2009 10:42:30 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+<site xmlns="com-wordpress:feed-additions:1">8736267</site>	<item>
+		<title>Molten Baby Cakes &#8211; Soft centered Chocolate Puddings</title>
+		<link>/molten-baby-cakes-soft-centered-chocolate-puddings/</link>
+					<comments>/molten-baby-cakes-soft-centered-chocolate-puddings/#comments</comments>
+		
+		<dc:creator><![CDATA[Anita]]></dc:creator>
+		<pubDate>Fri, 13 Mar 2009 21:56:26 +0000</pubDate>
+				<category><![CDATA[Cakes, Slices and Biscuits]]></category>
+		<category><![CDATA[Chocolate]]></category>
+		<category><![CDATA[Dessert]]></category>
+		<category><![CDATA[Recipes]]></category>
+		<category><![CDATA[cake]]></category>
+		<category><![CDATA[Molten Cake]]></category>
+		<category><![CDATA[Nigella Lawson]]></category>
+		<category><![CDATA[pudding]]></category>
+		<category><![CDATA[Soft centered]]></category>
+		<guid isPermaLink="false">/?p=191</guid>
+
+					<description><![CDATA[I visited the Arthouse Hotel near Town Hall station quite a while ago and had to try their soft-centered chocolate puddings. One mouthful and I wasn’t very keen to let Nick have a try… ok… so I let him have one… maybe two bits…. Not very generous of me I know… but that’s what happens [&#8230;]]]></description>
+		
+					<wfw:commentRss>/molten-baby-cakes-soft-centered-chocolate-puddings/feed/</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">191</post-id>	</item>
+	</channel>
+</rss>

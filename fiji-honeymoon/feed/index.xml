@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Fiji &#8211; Honeymoon	</title>
+	<atom:link href="/fiji-honeymoon/feed/" rel="self" type="application/rss+xml" />
+	<link>/fiji-honeymoon/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Sat, 21 Mar 2009 21:41:46 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Lorraine @NotQuiteNigella		</title>
+		<link>/fiji-honeymoon/comment-page-1/#comment-63</link>
+
+		<dc:creator><![CDATA[Lorraine @NotQuiteNigella]]></dc:creator>
+		<pubDate>Sat, 21 Mar 2009 21:41:46 +0000</pubDate>
+		<guid isPermaLink="false">/?p=77#comment-63</guid>
+
+					<description><![CDATA[Looks like a wonderful 16 days! We honeymooned in Fiji and stayed at the Shangrila and then at Mana Island Resort. It&#039;s so relaxing and I have very fond memories of both!]]></description>
+			<content:encoded><![CDATA[<p>Looks like a wonderful 16 days! We honeymooned in Fiji and stayed at the Shangrila and then at Mana Island Resort. It&#8217;s so relaxing and I have very fond memories of both!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

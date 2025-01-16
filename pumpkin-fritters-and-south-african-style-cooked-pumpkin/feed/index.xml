@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Pumpkin Fritters and South African Style Cooked Pumpkin	</title>
+	<atom:link href="/pumpkin-fritters-and-south-african-style-cooked-pumpkin/feed/" rel="self" type="application/rss+xml" />
+	<link>/pumpkin-fritters-and-south-african-style-cooked-pumpkin/</link>
+	<description>Anita&#039;s Food Blog</description>
+	<lastBuildDate>Mon, 27 Mar 2017 09:58:36 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>
+		By: Mother-in-law		</title>
+		<link>/pumpkin-fritters-and-south-african-style-cooked-pumpkin/comment-page-1/#comment-187147</link>
+
+		<dc:creator><![CDATA[Mother-in-law]]></dc:creator>
+		<pubDate>Wed, 22 Mar 2017 09:06:53 +0000</pubDate>
+		<guid isPermaLink="false">/?p=5306#comment-187147</guid>
+
+					<description><![CDATA[Really great looking fritters - makes my mouth water!]]></description>
+			<content:encoded><![CDATA[<p>Really great looking fritters &#8211; makes my mouth water!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
